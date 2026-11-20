@@ -1,0 +1,25 @@
+
+{
+  "name": "Калякин Артём — Игровой сайт",
+  "short_name": "Мои игры",
+  "description": "Персональный сайт геймера и разработчика игр",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#15041e",
+  "theme_color": "#15041e",
+  "icons": [
+      {
+          "src": "/icons/icon-192.svg",
+          "sizes": "any",
+          "type": "image/svg+xml",
+          "purpose": "any"
+      },
+      {
+          "src": "/icons/icon-512.svg",
+          "sizes": "any",
+          "type": "image/svg+xml",
+          "purpose": "any"
+      }
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+  "name": "kalyakin-artem-lab",
+  "version": "1.0.0",
+  "description": "Лабораторная работа по веб-разработке",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
